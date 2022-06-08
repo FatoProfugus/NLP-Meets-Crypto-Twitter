@@ -1,5 +1,3 @@
-# NLP-Meets-Crypto-Twitter
-
 NLP Meets Crypto Twitter
 
 Due to data being large full project repo is available at:
